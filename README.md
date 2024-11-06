@@ -1,5 +1,7 @@
 # boxworld-process-optimization
-Code for optimization of boxworld process correlations. For more details see the arXiv preprint: arXiv:2410.XXXX 
+Code for optimization of boxworld process correlations. For more details see the arXiv preprint: arXiv:2411.00951
+
+
 ## Usage Guide for Boxworld Process Optimization Package
 
 To use this package, follow these steps:
